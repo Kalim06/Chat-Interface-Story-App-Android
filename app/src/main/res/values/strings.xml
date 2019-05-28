@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kalim Dalwai</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="you_are_offline">You are offline!</string>
+    <string name="please_click_retry_to_try_again">Please click retry to try again.</string>
+    <string name="retry">Retry</string>
+    <string name="rightUserImage">rightUserImage</string>
+    <string name="leftUserImg">leftUserImg</string>
+
+</resources>
